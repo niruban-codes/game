@@ -1,3 +1,4 @@
 ab = 23
 
-print(ab)
+print(ab + 23)
+
